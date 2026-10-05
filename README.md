@@ -1,5 +1,4 @@
 # My_C_Codes
-# My C Codes 🧑‍💻
 
 Welcome to **My C Codes** — a collection of C programs I have written while learning and practicing the C programming language.
 
